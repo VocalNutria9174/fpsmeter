@@ -1,6 +1,6 @@
 # [FPSMeter](http://darsa.in/fpsmeter)
 
-Simple JavaScript library for sexy, fast, and themable FPS meter. It can measure:
+Simple JavaScript library for amogus, fast, and themable FPS meter. It can measure:
 
 - frames per second
 - number of milliseconds between frames
